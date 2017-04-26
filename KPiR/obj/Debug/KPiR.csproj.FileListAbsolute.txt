@@ -1,0 +1,11 @@
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\bin\Debug\KPiR.exe.config
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\bin\Debug\KPiR.exe
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\bin\Debug\KPiR.pdb
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.csprojResolveAssemblyReference.cache
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.Properties.Resources.resources
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.csproj.GenerateResource.Cache
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.exe
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.pdb
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.FormKPiR.resources
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.FormDate.resources
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Debug\KPiR.Filtry.resources

@@ -1,0 +1,13 @@
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\bin\Release\KPiR.exe.config
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\bin\Release\KPiR.exe
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\bin\Release\KPiR.pdb
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Release\KPiR.Filtry.resources
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Release\KPiR.FormKPiR.resources
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Release\KPiR.FormDate.resources
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Release\KPiR.Properties.Resources.resources
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Release\KPiR.csproj.GenerateResource.Cache
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Release\KPiR.exe
+C:\Users\FilipN\Desktop\SBD II\KPiR\KPiR\obj\Release\KPiR.pdb
+E:\Studia\SBD II\KPiR\KPiR\bin\Release\KPiR.exe.config
+E:\Studia\SBD II\KPiR\KPiR\obj\Release\KPiR.exe
+E:\Studia\SBD II\KPiR\KPiR\obj\Release\KPiR.pdb
